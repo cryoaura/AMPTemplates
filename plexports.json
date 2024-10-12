@@ -1,0 +1,72 @@
+[
+    {
+        "Protocol": "TCP",
+        "Port": "32400",
+        "Name": "Main Game Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "MainGamePort"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "1900",
+        "Name": "DLNA",
+        "Description": "Port used for main game traffic",
+        "Ref": "DLNA"
+    },
+    {
+        "Protocol": "TCP",
+        "Port": "3005",
+        "Name": "Companion",
+        "Description": "Port used for main game traffic",
+        "Ref": "Companion"
+    },
+    {
+        "Protocol": "TCP",
+        "Port": "8324",
+        "Name": "Roku Companion",
+        "Description": "Port used for main game traffic",
+        "Ref": "RokuCompanion"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "5353",
+        "Name": "Roku Companion",
+        "Description": "Port used for main game traffic",
+        "Ref": "RokuCompanion"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "32410",
+        "Name": "Discovery",
+        "Description": "Port used for main game traffic",
+        "Ref": "Discovery"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "32412",
+        "Name": "Discovery",
+        "Description": "Port used for main game traffic",
+        "Ref": "Discovery"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "32413",
+        "Name": "Discovery",
+        "Description": "Port used for main game traffic",
+        "Ref": "Discovery"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "32414",
+        "Name": "Discovery",
+        "Description": "Port used for main game traffic",
+        "Ref": "Discovery"
+    },
+    {
+        "Protocol": "TCP",
+        "Port": "32469",
+        "Name": "DLNA",
+        "Description": "Port used for main game traffic",
+        "Ref": "DLNA"
+    }
+]
